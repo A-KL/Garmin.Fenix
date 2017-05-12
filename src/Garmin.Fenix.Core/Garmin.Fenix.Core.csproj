@@ -108,6 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="V1\DataPagesType.cs" />
     <Compile Include="V1\GarminDevice.cs" />
     <EmbeddedResource Include="Properties\Garmin.Fenix.Core.rd.xml" />
   </ItemGroup>
